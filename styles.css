@@ -1,0 +1,27 @@
+
+.cont-style{
+ 
+    background-color: aqua;
+
+}
+
+.by-line{
+
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.newspaper-name{
+
+font-size:6.5em;
+font-weight:700;
+font-family: sans-serif;
+background-color: burlywood;
+
+}
+
+.date-tag{
+
+    font-size: 2em;
+
+}
