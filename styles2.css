@@ -1,0 +1,40 @@
+
+
+.prev-page-button {
+
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top:2%; 
+}
+
+.by-line {
+
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: left;
+}
+
+.second-headline{
+
+    border-top: 3px solid black;
+}
+
+.date-tag {
+
+    font-size: 1em;
+    width: fit-content;
+
+}
+
+.sub-headline {
+
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    color:darkred;
+    text-align: center;
+}
+
+.bottom-line{
+ 
+    border-top:2px solid black;
+}
